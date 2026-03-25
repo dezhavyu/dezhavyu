@@ -8,9 +8,6 @@ Backend-focused software engineer.
 **Backend:** FastAPI, Django, SQLAlchemy, Pydantic, Celery  
 **Frontend:** React, Next.js  
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dezhavyu&show_icons=false&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
-</p>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18"/>
