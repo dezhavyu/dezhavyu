@@ -1,6 +1,6 @@
 # vivalabit
 
-Backend-focused software engineer
+Software engineer
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18"/>
@@ -30,6 +30,7 @@ Backend-focused software engineer
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/github/github-original.svg" height=18">
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/mantewdd?theme=dark)
 
 
 
